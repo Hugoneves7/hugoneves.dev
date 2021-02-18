@@ -2,10 +2,10 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-body{
+.bg-body{
   color: #ffca69;
   background: rgb(14, 14, 34);
 }
 .bg-network{
-  background: url() top center no-repeat;
+  background: url() top left no-repeat;
 }
