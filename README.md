@@ -4,7 +4,7 @@
 
 Este projeto é o código-fonte do curriculo online de Tulio Faria, disponível em: https://tuliofaria.dev
 
-![Preview](https://github.com/hugoneves7/hugoneves.dev/blob/master/print.png?raw=true)
+![Preview](https://github.com/hugoneves7/hugoneves.dev/blob/main/print.PNG?raw=true)
 
 ## Início
 
